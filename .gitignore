@@ -1,0 +1,36 @@
+# Dataset files (muito grandes para GitHub)
+*.csv
+data/*.csv
+olist_*.csv
+
+# Outputs gerados
+outputs/*.png
+outputs/*.jpg
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
