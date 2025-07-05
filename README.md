@@ -68,7 +68,7 @@ pip install -r requirements.txt
 1. **Baixe o dataset:**
    - Acesse: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
    - Baixe o arquivo ZIP
-   - Extraia os arquivos CSV na pasta do projeto
+   - Extraia os arquivos CSV na pasta `data` do projeto
 
 2. **Execute a análise:**
 ```bash
